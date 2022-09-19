@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afrinaldi</h1>
-<h4 align="center">I am final year student majoring in Informatics Engineering at UIN Sunan Gunung Djati. I like developing Web Developer and Android Developer programs.</h4>
+<h4 align="center">I am final year student majoring in Informatics Engineering at UIN Sunan Gunung Djati. I like developing Android application programs.</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align='center'>
