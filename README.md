@@ -25,10 +25,6 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinaldilibrary&theme=dark" alt="afrinaldilibrary" />
-</p>
-
-<p align='center'>
  <a href="https://mail.google.com/mail/u/?authuser=afrinaldi190401@gmail.com">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=afrinaldi190401@gmail.com&color=000000&label=📫How to reach me" />
 </a>&nbsp;&nbsp;
